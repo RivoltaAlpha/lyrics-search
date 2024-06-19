@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat&display=swap");
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.App {
+  min-height: 100vh;
+  height: auto;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-family: "Fredoka One", cursive;
+  color: #ff7a8a;
+}
+
+pre {
+  font-size: 24px;
+  color: #00050a;
+  border-radius: 20px;
+  background-color: #6c94c7e2;
+  margin-top: 30px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgb(98, 98, 202);
+}
+
+hr {
+  margin-top: 50px;
+  width: 60%;
+}
+
+.inp {
+  width: 400px;
+  border-radius: 10px;
+  height: 40px;
+  border: 1px solid #113a5d;
+  margin: 0px 10px;
+  padding-left: 6px;
+  font-size: 22px;
+  color: rgb(3, 0, 0);
+  background-color: #f5daf2;
+}
+
+.btn {
+  width: 90px;
+  height: 40px;
+  background-color: #1789ec;
+}
